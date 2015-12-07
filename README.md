@@ -1,7 +1,5 @@
 # Playing with Transparency
 
-playingwithtransparency-melvincabatuan created by Classroom for GitHub 
-
 ## Warning
 
  Note the Gradle plugin is at the experimental stage. The Gradle API for the new component model is not final, which means it'll only work with a specific version of Gradle until the APIs are final.
@@ -174,41 +172,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/53d64a9e2ced629bee9fdc364be4bef9
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/playingwithtransparency-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](screenshot_015.png)](https://youtu.be/xZ4ZZiWNkWo)
-
-
-## Screenshot:
-
-![screenshot1](device-2015-11-20-044201.png)
-
-![screenshot2](device-2015-11-20-043954.png)
-
-![screenshot3](device-2015-11-20-044450.png)
-
-
-"*Programs must be written for people to read, and only incidentally for machines to execute.*" -  Harold Abelson, Structure and Interpretation of Computer Programs
